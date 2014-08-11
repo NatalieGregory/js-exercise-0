@@ -4,8 +4,8 @@
 
 ## Ruin Taskly UX
 
-1) Fork a repo of Taskly
-2) Use JavaScript to ruin the user experience
+1. Fork a repo of Taskly
+2. Use JavaScript to ruin the user experience
 
 Tips:
 
